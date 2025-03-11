@@ -1,0 +1,34 @@
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe.config
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\Operaciones Basicas.pdb
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\DIVISION.dll
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\MULTIPLICAR.dll
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\RESTA.dll
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\SUMA.dll
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\DIVISION.pdb
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\MULTIPLICAR.pdb
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\RESTA.pdb
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\bin\Debug\SUMA.pdb
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.AssemblyReference.cache
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones_Basicas.Form1.resources
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones_Basicas.Properties.Resources.resources
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.GenerateResource.cache
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.CoreCompileInputs.cache
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operacio.D2A90656.Up2Date
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones Basicas.exe
+C:\Users\juanb\Downloads\Operaciones Basicas-20250308T004029Z-001\Operaciones Basicas\obj\Debug\Operaciones Basicas.pdb
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe.config
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\Operaciones Basicas.pdb
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\DIVISION.pdb
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\MULTIPLICAR.pdb
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\RESTA.pdb
+C:\Users\juanb\source\repos\Operaciones Basicas\bin\Debug\SUMA.pdb
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.AssemblyReference.cache
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones_Basicas.Form1.resources
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones_Basicas.Properties.Resources.resources
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.GenerateResource.cache
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.CoreCompileInputs.cache
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operacio.D2A90656.Up2Date
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones Basicas.exe
+C:\Users\juanb\source\repos\Operaciones Basicas\obj\Debug\Operaciones Basicas.pdb
