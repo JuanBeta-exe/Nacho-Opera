@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B90D8E6D-A7FA-448B-A6BE-2985A1604318}|Operaciones Basicas.csproj|C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B90D8E6D-A7FA-448B-A6BE-2985A1604318}|Operaciones Basicas.csproj|c:\\users\\juanb\\source\\repos\\operaciones basicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B90D8E6D-A7FA-448B-A6BE-2985A1604318}|Operaciones Basicas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90D8E6D-A7FA-448B-A6BE-2985A1604318}|Operaciones Basicas.csproj|c:\\users\\juanb\\source\\repos\\operaciones basicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B90D8E6D-A7FA-448B-A6BE-2985A1604318}|Operaciones Basicas.csproj|C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B90D8E6D-A7FA-448B-A6BE-2985A1604318}|Operaciones Basicas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAIA4wBgAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAnwDwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T18:13:46.356Z",
               "IsPinned": true,
@@ -47,8 +47,7 @@
               "ToolTip": "C:\\Users\\juanb\\source\\repos\\Operaciones Basicas\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:03:58.665Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-07T18:03:58.665Z"
             }
           ]
         }

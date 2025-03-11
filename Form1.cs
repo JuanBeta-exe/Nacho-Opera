@@ -18,16 +18,15 @@ namespace Operaciones_Basicas
         }
         private void bttSuma_Click(object sender, EventArgs e)
         {
-            Nums();  
+            Nums();
             float suma = SUMA.SumaClass.suma(Num1, Num2);
             lblSigno.Text = "+";
-            lblResultado.Text = $"= {suma}"; 
+            lblResultado.Text = $"= {suma}";
         }
 
         private void bttResta_Click(object sender, EventArgs e)
         {
             Nums();
-
             float resta = RESTA.RestarClass.Resta(Num1, Num2);
             lblSigno.Text = "-";
             lblResultado.Text = $"= {resta}";
@@ -57,8 +56,21 @@ namespace Operaciones_Basicas
             }
             else
             {
-                Num1 = float.Parse(txbNum1.Text);
-                Num2 = float.Parse(txbNum2.Text);
+                try
+                {   
+                    if (txbNum1.Text.Length > 9 || txbNum2.Text.Length > 9)
+                    {
+                        throw new Exception();
+                    }
+                    Verif(txbNum1.Text, txbNum2.Text);  
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Ingrese un número mas pequeño");
+                    txbNum1.Text = ""; txbNum2.Text = "";
+                    txbNum1.Focus();
+                }
+
             }
         }
 
@@ -75,8 +87,31 @@ namespace Operaciones_Basicas
         {
             if (e.KeyChar == (char)Keys.Enter)
             {
-                SendKeys.Send("{TAB}"); 
+                SendKeys.Send("{TAB}");
             }
-        }   
+        }
+
+        private void Verif(string txt1, string txt2)
+        {
+            string temp1 = string.Empty;
+            foreach (char s in txt1)
+            {
+                if (char.IsDigit(s))
+                {
+                    temp1 += s;
+                }
+            }
+            Num1 = float.Parse(temp1);
+
+            string temp2 = string.Empty;
+            foreach (char c in txt2)
+            {
+                if (char.IsDigit(c))
+                {
+                    temp2 += c;
+                }
+            }
+            Num2 = float.Parse(temp2);
+        }
     }
 }
